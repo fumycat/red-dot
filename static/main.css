@@ -1,0 +1,23 @@
+#button-box {
+    display: inline;
+    margin: 30px;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    color: #ffffff;
+    font-size: 24px;
+    background: #3498db;
+    padding: 30px;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
