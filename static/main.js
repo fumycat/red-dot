@@ -5,6 +5,12 @@ function getAjaxData(w) {
                 $('#main-container').replaceWith(response);
             }
         });
+    var btn = $("#gotohome");
+    if (w != 0){
+        btn.slideDown();
+    } else {
+        btn.slideUp();
+    }
 }
 
 $(document).ready(function(){

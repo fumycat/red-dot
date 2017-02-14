@@ -24,7 +24,7 @@ a:hover {
 
 #main-container {
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 700px;
     position: relative;
     background: white;
     padding: 10px;
@@ -33,4 +33,10 @@ a:hover {
 img{
     height:100%;
     max-height:400px;
+}
+
+#gotohome {
+    position: fixed;
+    top: 30px;
+    left: 20px;
 }
