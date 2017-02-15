@@ -14,5 +14,5 @@ function getAjaxData(w) {
 }
 
 $(document).ready(function(){
-    getAjaxData(0)
+    getAjaxData(0);
 });
