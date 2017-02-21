@@ -45,6 +45,6 @@ img{
 
 @media screen and (max-width: 1139px){
     #gotohome {
-        visibility: hidden;
+        /*visibility: hidden;*/
     }
 }
